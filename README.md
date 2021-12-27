@@ -1,3 +1,4 @@
+#Credit: https://youtu.be/2lZZhTf5uHY
 # music_visualizer
 Uses concepts in processing to generate a music visualizer 
 
