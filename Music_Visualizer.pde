@@ -1,5 +1,8 @@
+///Credit: https://youtu.be/2lZZhTf5uHY 
+
 //Import library to help with 3D display
 // The PeasyCam Processing library provides an easy-peasy camera for 3D sketching.
+
 import peasy.*;
 
 //initialize class PeasyCam
